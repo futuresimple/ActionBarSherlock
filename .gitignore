@@ -32,3 +32,9 @@ proguard-project.txt
 #Other
 .DS_Store
 tmp
+
+#Gradle
+build
+
+#Emacs
+*~
